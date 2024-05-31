@@ -1,0 +1,37 @@
+country,pop,continent,lifExp,gdpPerCap,avgRetirementAge,largestIndustry,democraticLeaning
+Afghanistan,38928341,Asia,64.83,507.8,55,Agriculture,Low
+Brazil,213993437,South America,75.88,8790.24,62,Services,Medium
+Canada,38005238,North America,82.30,45023.93,65,Services,High
+Denmark,5818553,Europe,81.30,60265.49,66,Services,High
+Egypt,104124440,Africa,72.73,3512.43,60,Agriculture,Low
+France,65273511,Europe,82.52,41463.64,62,Services,High
+Germany,83240525,Europe,81.33,47622.77,65,Manufacturing,High
+India,1393409038,Asia,69.73,1900.76,60,Services,Medium
+Japan,126476461,Asia,84.63,40832.95,65,Manufacturing,High
+Kenya,53771296,Africa,66.70,1823.52,60,Agriculture,Low
+Mexico,130262216,North America,75.05,10226.58,65,Manufacturing,Medium
+Nigeria,206139589,Africa,54.33,2220.84,60,Agriculture,Low
+Oman,5106626,Asia,77.19,17342.64,60,Oil and Gas,Low
+Peru,33359416,South America,76.47,6759.57,65,Services,Medium
+Qatar,2881060,Asia,80.42,62010.46,60,Oil and Gas,Low
+Russia,145912025,Europe,73.20,11289.37,60,Oil and Gas,Medium
+Saudi Arabia,34813871,Asia,75.27,20983.46,60,Oil and Gas,Low
+Turkey,84339067,Asia,78.45,9123.67,60,Manufacturing,Medium
+United Kingdom,68207114,Europe,81.77,42320.06,65,Services,High
+United States,331893745,North America,78.86,65112.79,66,Services,Medium
+Vietnam,98168829,Asia,76.25,3498.95,60,Manufacturing,Medium
+Zimbabwe,14862924,Africa,61.49,1461.48,60,Agriculture,Low
+Argentina,45605823,South America,76.54,10117.28,65,Services,Medium
+Bangladesh,166303498,Asia,72.32,1964.24,59,Textiles,Medium
+China,1444216107,Asia,77.47,10493.73,60,Manufacturing,Low
+Ethiopia,114963588,Africa,67.44,936.34,60,Agriculture,Low
+Greece,10423054,Europe,81.14,20270.01,67,Services,High
+Indonesia,276361783,Asia,71.73,4235.31,58,Manufacturing,Medium
+Italy,60244639,Europe,83.51,33123.58,67,Manufacturing,High
+Kazakhstan,18776707,Asia,73.21,9857.02,63,Oil and Gas,Medium
+Malaysia,32682000,Asia,76.11,11373.92,60,Manufacturing,Medium
+Norway,5421241,Europe,82.66,75144.83,67,Oil and Gas,High
+Pakistan,225199937,Asia,67.27,1473.72,60,Agriculture,Low
+South Africa,59308690,Africa,64.13,5999.84,60,Services,Medium
+Thailand,69950865,Asia,76.95,7006.11,60,Manufacturing,Medium
+Ukraine,41660982,Europe,71.35,3727.81,60,Manufacturing,Medium
